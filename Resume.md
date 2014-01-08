@@ -1,20 +1,21 @@
 #Resume
 
-Hi there, my name is Mark and I currently work at the BBC on their responsive news product.
+Hi there, my name is Arvind and I currently work for Osemspace & Instajob. Personally, I have founded and am running Evozi & FinchVPN.
 
 ---
 
 You can find me online at the following locations:
 
-- [integralist.co.uk](http://www.integralist.co.uk/)
-- [github.com/integralist](https://github.com/integralist)
-- [twitter.com/integralist](http://www.twitter.com/integralist)
+- [Linkedin](http://www.linkedin.com/naiduarvind)
+- [Github](https://github.com/arvind-naidu)
+- [Twitter](http://www.twitter.com/rvine_naidu)
+- [Facebook](http://www.facebook.com/rvinenaidu)
 
 ---
 
-## BBC processes
+## Osemspace & Instajob
 
-Mainly my work at the BBC involves the following processes and tools…
+Mainly my work at the Osemspace & Instajob involves the following processes and tools…
 
 - Ruby (BDD Acceptance Tests with Cucumber/Capybara)
 - PHP (Web Application with Zend Framework)
