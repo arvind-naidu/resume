@@ -1,4 +1,4 @@
-#Resume
+# Resume
 
 Hi there, my name is Arvind and I currently work for Osemspace & Instajob. Personally, I am running Evozi and FinchVPN.
 
@@ -64,9 +64,13 @@ But my skill set expands to include…
 
 ---
 
-##Summary
+## Summary
 
 I ideally want to get across two fundamental things about me:
 
 1. I'm very passionate about programming and the openness of the web.
 2. I love getting the chance to learn and experience new things.
+
+## Release History
+
+* 2014-01-14   v0.0.1   initial release
